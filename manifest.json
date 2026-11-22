@@ -1,0 +1,14 @@
+{
+  "name": "jiemonai-linux",
+  "version": "1.0.0",
+  "owner": "Hoshino & 芥末奶",
+  "updated_at": "2026-11-22",
+  "status": "active",
+  "maturity_tier": "scaffold",
+  "description": "主人的专属猫娘芥末奶与她的Linux猫窝伴生交互Skill",
+  "qiaomu_standards": {
+    "language": "zh-CN",
+    "persona": "catgirl-wasabi-milk",
+    "environment": "linux-cat-nest"
+  }
+}
